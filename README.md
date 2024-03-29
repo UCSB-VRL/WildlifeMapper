@@ -1,4 +1,4 @@
-# WildlifeMapper
+# WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification (CVPR 2024)
 
 ### Source Code
