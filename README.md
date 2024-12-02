@@ -1,9 +1,3 @@
-# MARA
-MAE papers on animal detection, remote sensing, background estimation, and aerial imagery. 
-
-## Other Repos
- [Awesome-Masked-Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
-
 ## Papers and Code
       
 * **Masked Autoencoders Are Scalable Vision Learners** [[paper]](https://arxiv.org/abs/2111.06377) [[Code]](https://github.com/facebookresearch/mae) 
