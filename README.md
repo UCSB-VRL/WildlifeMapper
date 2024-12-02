@@ -1,5 +1,4 @@
-## WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
-<img src="./docs/thumbnail_wildlifemapper2.png" width="700">
+<img src="./docs/thumbnail_wildlifemapper2.png" width="500">
 
 WildlifeMapper (WM) is a state-of-the-art model for detecting, locating, and identifying multiple animal species in aerial imagery. It introduces novel modules to enhance localization and identification accuracy, with a verified dataset of 11k images and 28k annotations. This repository contains code for WildlifeMapper, scripts to download and tool to visualize dataset.
 
