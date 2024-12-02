@@ -2,7 +2,7 @@
 
 ## WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 
-WildlifeMapper (WM) is a state-of-the-art model for detecting, locating, and identifying multiple animal species in aerial imagery. It introduces novel modules to enhance localization and identification accuracy, with a verified dataset of 11k images and 28k annotations. This repository contains code for WildlifeMapper, scripts to download and tool to visualize dataset.
+WildlifeMapper (WM) is a state-of-the-art model for detecting, locating, and identifying multiple animal species in aerial imagery. It introduces novel modules to enhance localization and identification accuracy, with a verified dataset of 11k images and 28k annotations. This repository contains code for WildlifeMapper, scripts to download and tool to visualize dataset ([**BisQue**](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-TGbt6MLRm7VCn4mWmVaQsc)).
 
 ### [**WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification**](https://openaccess.thecvf.com/content/CVPR2024/papers/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.pdf)
 [Satish Kumar*](https://www.linkedin.com/in/satish-kumar-81912540/), [Bowen Zhang](), .. , [Jared A. Stabach](https://jaredstabach.com/), [Lacey Hughey](), .. , [B S Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath).
@@ -15,7 +15,7 @@ This repository includes:
 * Source code of WildlifeMapper.
 * Pre-trained weights for the bounding box detector.
 * Scripts to download Mara-Wildlife dataset (Approvals under review)
-* Online tool to visualize Mara-Wildlife dataset ([**BisQue**]())
+* Online tool to visualize Mara-Wildlife dataset ([**BisQue**](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-TGbt6MLRm7VCn4mWmVaQsc))
 * Code for custom data preparation for training/testing
 
 
