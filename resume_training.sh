@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=4,5,6,7 torchrun --nproc_per_node=4 train.py --coco_path /mnt/mara/coco_1024_fixed --output_dir ./exp/box_model --batch_size 2 --num_workers 4 --use_wandb True --resume ./exp/box_model/best_checkpoint.pth
+# CUDA_VISIBLE_DEVICES=0 torchrun --nproc_per_node=1 train.py --coco_path /mnt/mara/coco_1024_fixed --output_dir ./exp/box_model --batch_size 1 --num_workers 0 --resume ./exp/box_model/best_checkpoint.pth

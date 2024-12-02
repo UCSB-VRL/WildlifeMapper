@@ -1,0 +1,30 @@
+# Ignore all .pth files
+*.pth
+
+# Optional: Ignore any cached files or data files that might accompany model checkpoints
+*.pkl
+*.h5
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+env/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore VSCode settings (if applicable)
+.vscode/
+
