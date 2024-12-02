@@ -9,7 +9,7 @@ WildlifeMapper (WM) is a state-of-the-art model for detecting, locating, and ide
 
 Official repository of our [**CVPR 2024**](https://openaccess.thecvf.com/content/CVPR2024/papers/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.pdf) paper.
 
-<img src="./docs/mainpage_github.gif" width="700">
+<img src="./docs/wildlifemapper_github.jpg" width="700">
 
 This repository includes:
 * Source code of WildlifeMapper.
