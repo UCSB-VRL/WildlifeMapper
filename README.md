@@ -37,6 +37,23 @@ If this research is helpful to you, please consider citing our paper:
 }
 ```
 
+## Usage
+
+### Requirements
+- Linux or macOS with Python >= 3.7
+- Pytorch >= 1.7.0
+- CUDA >= 10.0
+- cudNN (compatible with CUDA)
+
+### Installation
+1. Clone the repository
+2. Install dependencies
+```
+pip install -r requirements.txt
+```
+
+
+
 ## Dataset
 
 See [here]() for an overview of the datastet. The dataset can be downloaded [here](). By downloading the datasets you agree that you have read and accepted the terms of the SA-1B Dataset Research License.
@@ -66,28 +83,8 @@ annotation {
 
 
 ## License
-
-The model is licensed under the [MIT](LICENSE).
-
-## Contributing
-
-See [contributing](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+MethaneMapper is released under the UCSB license. Please see the [LICENSE](./LICENSE) file for more information.
 
 ## Contributors
 
-The WildlifeMapper project was made possible with the help of many contributors for all over the world:
-
-
-## Citing WildlifeMapper
-
-If you use WildlifeMapper in your research, please use the following BibTeX entry.
-
-```
-@inproceedings{kumar2024wildlifemapper,
-  title={WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification},
-  author={Kumar, Satish and Zhang, Bowen and Gudavalli, Chandrakanth and Levenson, Connor and Hughey, Lacey and Stabach, Jared A and Amoke, Irene and Ojwang, Gordon and Mukeka, Joseph and Mwiu, Stephen and others},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={12594--12604},
-  year={2024}
-}
-```
+The WildlifeMapper project was made possible with the help of many contributors for all over the world: Satish Kumar, Bowen Zhang, Chandrakanth Gudavalli, Connor Levenson, Lacey Hughey, Jared A. Stabach, Irene Amoke, Gordon Ojwang’, Joseph Mukeka, Stephen Mwiu, Joseph Ogutu, Howard Frederick, B.S. Manjunath
