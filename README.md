@@ -1,4 +1,4 @@
-<img src="./docs/thumbnail_wildlifemapper2.png" width="100">
+<img src="./docs/thumbnail_wildlifemapper2.png" width="200">
 
 ## WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 
