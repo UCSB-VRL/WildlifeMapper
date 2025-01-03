@@ -83,7 +83,8 @@ annotation {
 }
 ```
 
-### [**Dataset Visualization**]()
+### [**Dataset visualization guide**]()
+<img src="./docs/WildLifeMapper_data_visualization.gif" width="600">
 
 ## License
 WildlifeMapper is released under the UCSB license. Please see the [LICENSE](./LICENSE) file for more information.
