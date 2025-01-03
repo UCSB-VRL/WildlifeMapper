@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-See [here](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-TGbt6MLRm7VCn4mWmVaQsc) for an overview of the datastet. The sample dataset can be downloaded [here](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-TGbt6MLRm7VCn4mWmVaQsc). By downloading the datasets you agree that you have read and accepted the terms of the SA-1B Dataset Research License.
+See [here](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-TGbt6MLRm7VCn4mWmVaQsc) for an overview of the datastet. The sample dataset can be downloaded [here](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-TGbt6MLRm7VCn4mWmVaQsc).
 
 We save masks per image as a json file. It can be loaded as a dictionary in python in the below format.
 
