@@ -85,7 +85,7 @@ annotation {
 
 
 ## License
-MethaneMapper is released under the UCSB license. Please see the [LICENSE](./LICENSE) file for more information.
+WildlifeMapper is released under the UCSB license. Please see the [LICENSE](./LICENSE) file for more information.
 
 ## Contributors
 
